@@ -1,8 +1,8 @@
 # Decisiones pendientes
 
-Todavía no se ha elegido tecnología ni comenzado la implementación.
+El stack móvil está confirmado en [Tecnología](tecnologia.md). Todavía no ha comenzado la implementación.
 
-- Tecnología de la app móvil, backend y almacenamiento.
+- Backend, autenticación, base de datos y almacenamiento: Supabase es un candidato pendiente de evaluación, no una elección confirmada.
 - Identificación de jornadas y relación con los partidos de cada serie.
 - Modelo de partidos para registrar goles y tarjetas.
 - Qué comprende «otros datos» editables por administradores.
@@ -12,6 +12,6 @@ Todavía no se ha elegido tecnología ni comenzado la implementación.
 - Alcance de registro de firmas por serie para los roles autorizados.
 - Cómo registrar la disposición, solicitar y registrar aprobaciones, y gestionar su revocación.
 - Tratamiento de cambios de convocatoria después de registrar una firma y procedimiento de corrección, respetando las restricciones de jornada y los permisos confirmados.
-- Servicio de autenticación, mecanismo de verificación en dos pasos y recuperación segura de cuentas y del segundo factor.
+- Mecanismo de verificación en dos pasos y recuperación segura de cuentas y del segundo factor.
 
 Estas decisiones requieren confirmación antes de implementarse. Las reglas ya confirmadas están enlazadas en el [índice](README.md).

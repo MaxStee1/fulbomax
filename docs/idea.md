@@ -2,11 +2,11 @@
 
 App móvil de fútbol para gestionar un solo club con tres series: Senior, Reserva (Segunda) y Honor (Primera).
 
-## Etapas y plataformas
+## Etapas
 
 - Primera versión: registro, roles, encuestas, alineaciones, solicitudes y aprobaciones entre series, firmas y notificaciones.
 - Segunda etapa: goles y tarjetas.
-- Objetivo: Android y iPhone; priorizar Android si el lanzamiento se hace por etapas.
+- Las plataformas y el stack móvil se definen en [Tecnología](tecnologia.md).
 
 ## Funciones generales
 
