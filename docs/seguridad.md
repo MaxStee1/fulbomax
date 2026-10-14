@@ -12,6 +12,7 @@ Requisitos desde la primera versión; las decisiones de servicio, segundo factor
 ## Autorización y datos
 
 - Comprobar en el servidor permisos, aprobación de cuenta y acceso a cada recurso. No confiar únicamente en restricciones de la interfaz.
+- Hacer cumplir las restricciones de gestión de cuentas y transferencia de owner de [Roles](roles.md). El procedimiento seguro de transferencia aún debe definirse.
 - Aplicar mínimo privilegio al acceso a datos personales y fotos.
 - Mantener secretos fuera de la aplicación cliente y del repositorio; usar ejemplos de configuración sin valores reales.
 - Validar entradas y limitar intentos de autenticación y operaciones sensibles.
@@ -19,4 +20,5 @@ Requisitos desde la primera versión; las decisiones de servicio, segundo factor
 ## Auditoría y verificación
 
 - Registrar acciones sensibles con actor, fecha y cambio, sin exponer secretos.
+- Para correcciones de firmas, incluir también el motivo exigido en [Jornadas](jornadas.md).
 - Revisar dependencias y realizar pruebas de acceso no autorizado y de las reglas entre series.

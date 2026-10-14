@@ -5,6 +5,7 @@
 - Registro público solo para jugadores, pendiente de aprobación del administrador.
 - Datos obligatorios: nombre, apellidos, apodo, fecha de nacimiento, teléfono, serie habitual, posición habitual, correo y contraseña.
 - Foto opcional, pero recomendada, desde el torso hasta la cabeza.
+- Los jugadores pueden editar sus datos personales, excepto la serie habitual. Solo administrador y owner pueden cambiarla.
 - La creación de cuentas técnicas y asignación de roles se describe en [Roles](roles.md).
 
 ## Acceso

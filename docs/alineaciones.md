@@ -8,12 +8,14 @@
 
 ## Publicación
 
+- La edición y publicación requieren los permisos y responsabilidades de serie definidos en [Roles](roles.md).
 - La alineación permanece en borrador hasta pulsar «Publicar y notificar».
 - Todos los jugadores pueden ver todas las alineaciones publicadas.
 - Las alineaciones publicadas pueden editarse. Al publicar una actualización se notifican los cambios realizados.
 
 ## Notificaciones por jugador
 
+- Desde la primera versión, las notificaciones incluyen push y avisos dentro de la app.
 - Cada jugador citado recibe su serie de citación y su condición de titular o suplente.
 - «Sin citar» se notifica solo respecto de su serie habitual.
 - Otra serie solo le notifica si lo cita; no le avisa que quedó fuera.

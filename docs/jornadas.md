@@ -1,5 +1,9 @@
 # Jornadas y participación
 
+## Gestión de jornadas
+
+- Solo administrador y owner pueden crear jornadas y cargar fecha, rival, cancha y horario de cada serie.
+
 ## Serie habitual y selección
 
 - Cada jugador tiene una serie habitual. Un cambio para una jornada no la modifica.
@@ -18,5 +22,6 @@
 - Firmar en Reserva impide firmar en Honor en esa jornada, y viceversa.
 - Firmar en Senior no impide firmar en una de las otras dos series.
 - Convocatoria y firma son registros distintos.
+- Solo administrador y owner pueden corregir firmas registradas. Registrar actor, fecha y motivo de la corrección, además del cambio conforme a [Seguridad](seguridad.md).
 
 Quién puede registrar firmas se define en [Roles](roles.md).
