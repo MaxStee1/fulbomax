@@ -2,15 +2,16 @@
 
 | Rol | Permisos conocidos |
 | --- | --- |
-| Jugador | Registrarse y completar sus datos personales. |
-| Director técnico | Consultar información de jugadores, armar equipos y notificar la alineación titular. |
-| Administrador | Editar goles, tarjetas y otros datos. |
+| Jugador | Registrarse, completar sus datos personales y ver todas las alineaciones publicadas. No puede registrar firmas. |
+| DT y ayudante técnico | Consultar información de jugadores, gestionar alineaciones y registrar firmas. Ambos tienen siempre los mismos permisos. |
+| Administrador | Crear encuestas, editar goles, tarjetas y otros datos, y registrar firmas. |
 | Owner | Todos los permisos. |
 
-Pendiente de confirmar:
+## Responsabilidades técnicas
 
-- Qué datos personales puede consultar cada rol y de qué jugadores.
-- Qué comprende «otros datos» y sobre qué registros puede actuar el administrador.
-- Cómo se asignan los roles y si una persona puede tener varios.
-- Si los permisos se limitan a un equipo o se aplican a toda la app.
-- Si los jugadores pueden modificar sus datos después de completarlos.
+- Cada serie tiene DT y ayudante técnico.
+- Los DT y ayudantes de Reserva y Honor pueden editar ambas alineaciones.
+- El DT de Senior es responsable de su serie; su ayudante tiene los mismos permisos.
+- Las aprobaciones de cambios de serie se rigen por [Jornadas](jornadas.md).
+
+Las dudas de permisos se mantienen en [Decisiones pendientes](decisiones.md).
