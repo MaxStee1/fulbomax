@@ -2,6 +2,7 @@
 
 1. [Idea](idea.md): propósito, alcance del club y funciones generales.
    - [Tecnología](tecnologia.md): stack móvil confirmado, plataformas, comprobación del entorno y estructura propuesta.
+   - [Configuración móvil](../mobile/README.md): variables locales, arranque y comprobaciones del cliente de Supabase.
 2. Reglas confirmadas: consultar solo el documento correspondiente a la tarea.
    - [Roles](roles.md): acceso y responsabilidades.
    - [Registro y cuentas](registro.md): alta, datos requeridos e inicio de sesión.
